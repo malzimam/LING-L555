@@ -1,0 +1,84 @@
+# sent_id = 1
+# text = Babban shafi :
+1	Babban	_	ADJ	_	_	_	_	_ IPA=babban 
+2	shafi	_	NOUN	_	_	_	_	_ IPA=shaɸi 
+3	:  	_	PUNCT	_	_	_	_	_ IPA=: 
+
+# sent_id = 2
+# text = Barka da zuwa Wikipedia ta Hausa ,
+1  	Barka	_	VERB	_	_	_	_	_ IPA=baɽka 
+2  	da  	_	ADP	_	_	_	_	_ IPA=da 
+3  	zuwa  	_	NOUN	_	_	_	_	_ IPA=zuwa 
+4  	Wikipedia  	_	NOUN	_	_	_	_	_ IPA=wikipedia 
+5  	ta  	_	ADP	_	_	_	_	_ IPA=ta 
+6  	Hausa	_	NOUN	_	_	_	_	_ IPA=hausa 
+7  	,  	_	PUNCT	_	_	_	_	_ IPA=, 
+
+# sent_id = 3
+# text = Insakulofidiya ta kyauta  .
+1	Insakulofidiya	_	NOUN	_	_	_	_	_	_ IPA=insakuloɸidija 
+2  	ta  	_	ADP	_	_	_	_	_ IPA=ta 
+3  	kyauta	_	ADJ	_	_	_	_	_ IPA=kjauta 
+5  	.  	_	PUNCT	_	_	_	_	_ IPA=. 
+
+# sent_id = 4
+# text = Mukaloli
+1  	Mukaloli  	_	NOUN	_	_	_	_	_ IPA=mukaloli 
+
+# sent_id = 5
+# text = wasu muƙaloli da ake bukata
+1  	wasu	_	DET	_	_	_	_	_ IPA=wasu 
+2  	muƙaloli  	_	NOUN	_	_	_	_	_ IPA=mukʼaloli 
+3	da  	_	ADP	_	_	_	_	_ IPA=da 
+4  	ake  	_	X	_	_	_	_	_ IPA=ake 
+5  	bukata	_	VERB	_	_	_	_	_ IPA=bukata 
+
+# sent_id = 6
+# text = wasu muƙaloli da zaku iya ingantawa
+1  	wasu  	_	DET	_	_	_	_	_ IPA=wasu 
+2  	muƙaloli  	_	NOUN	_	_	_	_	_ IPA=mukʼaloli 
+3  	da  	_	ADP	_	_	_	_	_ IPA=da 
+4  	zaku  	_	PRON	_	_	_	_	_ IPA=zaku 
+5  	iya  	_	AUX	_	_	_	_	_ IPA=ija 
+6  	ingantawa  	_	VERB	_	_	_	_	_ IPA=ingantawa 
+
+# sent_id = 7
+# text = Wikipedia a wasu harsunan Afirka
+1  	Wikipedia  	_	NOUN	_	_	_	_	_ IPA=wikipedia 
+2  	a  	_	ADP	_	_	_	_	_ IPA=a 
+3  	wasu  	_	DET	_	_	_	_	_ IPA=wasu 
+4  	harsunan  	_	NOUN	_	_	_	_	_ IPA=haɽsunan 
+5  	Afirka	_	NOUN	_	_	_	_	_ IPA=a ɸiɽka 
+
+# sent_id = 8
+# text = Aljeriya :
+1  	Aljeriya  	_	NOUN	_	_	_	_	_ IPA=a ldʒeɽija 
+2  	:  	_	PUNCT	_	_	_	_	_ IPA=: 
+
+# sent_id = 9
+# text = Aljeriya tana daya daga kasashen Afirka ta arewa .
+1  	Aljeriya  	_	NOUN	_	_	_	_	_ IPA=a ldʒeɽija 
+2  	tana  	_	AUX	_	_	_	_	_ IPA=tana 
+3  	daya  	_	NUM	_	_	_	_	_ IPA=daja 
+4  	daga  	_	ADP	_	_	_	_	_ IPA=daga 
+5  	kasashen  	_	NOUN	_	_	_	_	_ IPA=kasashen 
+6  	Afirka	_	NOUN	_	_	_	_	_ IPA=a ɸiɽka 
+7  	ta  	_	ADP	_	_	_	_	_ IPA=ta 
+8  	arewa	_	NOUN	_	_	_	_	_ IPA=aɽewa 
+9  	.  	_	PUNCT	_	_	_	_	_ IPA=. 
+
+# sent_id = 10
+# text = Tanada baban kuge daga arewacin ta nada iyaka da kasashe shida sone .
+1  	Tanada	_	VERB	_	_	_	_	_ IPA=tanada 
+2  	baban	_	ADJ	_	_	_	_	_ IPA=baban 
+3  	kuge  	_	NOUN	_	_	_	_	_ IPA=kuge 
+4  	daga  	_	ADP	_	_	_	_	_ IPA=daga 
+5  	arewacin  	_	ADJ	_	_	_	_	_ IPA=aɽewatʃin 
+6  	ta  	_	ADP	_	_	_	_	_ IPA=ta 
+7	nada  	_	ADJ	_	_	_	_	_ IPA=nada 
+8	iyaka	_	NOUN	_	_	_	_	_ IPA=ijaka 
+9  	da  	_	ADP	_	_	_	_	_ IPA=da 
+10  	kasashe	_	NOUN	_	_	_	_	_ IPA=kasashe 
+11  	shida	_	NUM	_	_	_	_	_ IPA=shida 
+12  	sone  	_	NOUN	_	_	_	_	_ IPA=sone 
+13  	.  	_	PUNCT	_	_	_	_	_ IPA=. 
